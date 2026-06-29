@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alirezaah98
 - 👀 I’m interested in computational biology
-- 🌱 I’m currently learning ML algorithms.
-- 💞️ I’m looking to collaborate on biological projects regarding developing models for the data.
+
 
 
 <!---
